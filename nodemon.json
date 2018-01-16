@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGODB_PASS": "abc",
+        "JWT_KEY": "mijnKey1337."
+    }
+}
